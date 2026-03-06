@@ -30,4 +30,4 @@ O sistema combinado gerou este resultado final, superando em muito o modelo inic
 
 A principal lição: Entender o negócio e aplicar a Engenharia de Recursos de forma oposta em cada segmento foi o que fez a diferença.
 
-Aberto a feedback e discussões sobre o projeto!
+![Preview da Plataforma](images/grafico.jfif)
